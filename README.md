@@ -3,6 +3,15 @@
 ## 📊 Dashboard Preview
 ![Call Center Performance Dashboard](images/call-center-dashboard.png)
 
+## ⬇️ Power BI File
+You can download the Power BI dashboard here:  
+[Download PBIX File](file/heart-attack-dashboard.pdf)
+
+## 🌐 Portfolio Link
+You can view this project as part of my portfolio here:  
+👉 https://abdulfatai583.github.io
+
+
 ## 📌 Overview
 This project analyzes call center operational data to evaluate agent performance, call handling efficiency, and overall service quality.  
 The goal is to provide management with clear, data-driven insights to improve operational efficiency and customer satisfaction.
@@ -58,12 +67,6 @@ The following steps were applied during data preparation:
 - **Power BI Desktop** – Data modeling, DAX measures, and dashboard creation  
 - **Power Query** – Data cleaning and transformation  
 - **Excel / CSV** – Initial data inspection  
-
----
-
-## 🌐 Portfolio Link
-You can view this project as part of my portfolio here:  
-👉 https://abdulfatai583.github.io
 
 ---
 
