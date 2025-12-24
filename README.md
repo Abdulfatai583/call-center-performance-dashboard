@@ -1,5 +1,8 @@
 # Call Center Performance Dashboard
 
+## 📊 Dashboard Preview
+![Call Center Performance Dashboard](images/call-center-dashboard.png)
+
 ## 📌 Overview
 This project analyzes call center operational data to evaluate agent performance, call handling efficiency, and overall service quality.  
 The goal is to provide management with clear, data-driven insights to improve operational efficiency and customer satisfaction.
@@ -55,12 +58,6 @@ The following steps were applied during data preparation:
 - **Power BI Desktop** – Data modeling, DAX measures, and dashboard creation  
 - **Power Query** – Data cleaning and transformation  
 - **Excel / CSV** – Initial data inspection  
-
----
-
-## 📂 Files
-- `call-center-dashboard.pbix` – Power BI dashboard file  
-- `/images` – Dashboard screenshots (for preview)  
 
 ---
 
