@@ -5,7 +5,7 @@
 
 ## ⬇️ Power BI File
 You can download the Power BI dashboard here:  
-[Download PBIX File](file/call-center-dashboard.pbix)
+[Download PBIX File](call-center-dashboard.pbix)
 
 ## 🌐 Portfolio Link
 You can view this project as part of my portfolio here:  
