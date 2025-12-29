@@ -1,14 +1,6 @@
 # Call Center Performance Dashboard
 
-## 📊 Dashboard Preview
-![Call Center Performance Dashboard](images/call-center-dashboard.png)
-
-## ⬇️ Power BI File
-You can download the Power BI dashboard here:  
-[Download PBIX File](call-center-dashboard.pbix)
-
-## 🌐 Portfolio Link
-You can view this project as part of my portfolio here:  
+## 🌐 The full interactive dashboard, visuals, and project are avaliable here
 👉 https://abdulfatai583.github.io
 
 
